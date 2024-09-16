@@ -2,6 +2,7 @@ package arrays
 
 import "fmt"
 
+// https://go.dev/play/p/_Y6GiQ8vocv
 func SortedSquaredArray(array []int) []int {
 	// Write your code here.
 	left := 0
